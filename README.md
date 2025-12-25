@@ -1,6 +1,6 @@
 <p align="center" style="margin-top:8px">
   <!-- Big animated Vietnam flag -->
-  <img src="https://raw.githubusercontent.com/crafts69guy/crafts69guy/main/assets/flag-vn-wave.gif" alt="Việt Nam flag waving" width="360" />
+  <img src="https://raw.githubusercontent.com/crafts69guy/crafts69guy/production/assets/flag-vn-wave.gif" alt="Việt Nam flag waving" width="360" />
 </p>
 
 <h1 align="center">Hi — I'm <strong>crafts69guy</strong> 👋</h1>
