@@ -1,22 +1,18 @@
-<p align="center">
-  <img src="https://github.com/crafts69guy.png" width="96" alt="avatar" />
+<p align="center" style="margin-top:8px">
+  <!-- Big animated Vietnam flag -->
+  <img src="https://raw.githubusercontent.com/crafts69guy/crafts69guy/main/assets/flag-vn-wave.svg" alt="Việt Nam flag waving" width="360" />
 </p>
 
 <h1 align="center">Hi — I'm <strong>crafts69guy</strong> 👋</h1>
 
 <p align="center"><em>Maker · Woodworker · Hobbyist developer — more fun with coffee ☕️</em></p>
 
-<p align="center" style="margin-top:8px">
-  <!-- Big animated Vietnam flag -->
-  <img src="https://raw.githubusercontent.com/crafts69guy/crafts69guy/main/assets/flag-vn-wave.svg" alt="Việt Nam flag waving" width="360" />
-</p>
-
 <p align="center" style="margin-top:16px">
-  <a href="https://www.facebook.com/tony.cuong.39142/" title="Facebook">
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-Tony%20Cuong-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-  </a>
   <a href="https://www.linkedin.com/in/crafts69guy/" title="LinkedIn">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-crafts69guy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.facebook.com/tony.cuong.39142/" title="Facebook">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-Tony%20Cuong-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
   <a href="https://x.com/crafts69guy" title="X">
     <img alt="X" src="https://img.shields.io/badge/X-@crafts69guy-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
