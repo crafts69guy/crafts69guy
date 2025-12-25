@@ -9,19 +9,21 @@
 
 <p align="center" style="margin-top:16px">
   <a href="https://www.linkedin.com/in/crafts69guy/" title="LinkedIn">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-crafts69guy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-crafts69guy-073642?style=for-the-badge&logo=linkedin&logoColor=839496">
   </a>
   <a href="https://www.facebook.com/tony.cuong.39142/" title="Facebook">
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-Tony%20Cuong-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-Tony%20Cuong-073642?style=for-the-badge&logo=facebook&logoColor=839496">
   </a>
   <a href="https://x.com/crafts69guy" title="X">
-    <img alt="X" src="https://img.shields.io/badge/X-@crafts69guy-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+    <img alt="X" src="https://img.shields.io/badge/X-@crafts69guy-073642?style=for-the-badge&logo=x&logoColor=839496">
   </a>
   <a href="https://dev.to/crafts69guy" title="dev.to">
-    <img alt="dev.to" src="https://img.shields.io/badge/dev.to-crafts69guy-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white">
+    <img alt="dev.to" src="https://img.shields.io/badge/dev.to-crafts69guy-073642?style=for-the-badge&logo=dev-dot-to&logoColor=839496">
   </a>
 </p>
 
-<p align="center" style="max-width:720px; margin-top:14px">
-  I craft small-batch wooden goods and build simple web tools. Open for commissions & collaborations — reach out via the links above.
+<p align="center" style="max-width:720px; margin-top:14px">99% Caffeine, 1% Code, 100% Handcrafted. I craft small-batch wooden goods and build simple web tools. Open for commissions & collaborations — reach out via the links above.</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=crafts69guy&show_icons=true&theme=solarized-dark&hide_border=true" alt="GitHub Stats" />
 </p>
