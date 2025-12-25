@@ -22,7 +22,13 @@
   </a>
 </p>
 
-<p align="center" style="max-width:720px; margin-top:14px">99% Caffeine, 1% Code, 100% Handcrafted. I craft small-batch wooden goods and build simple web tools. Open for commissions & collaborations — reach out via the links above.</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=839496&center=true&vCenter=true&width=500&lines=99%25+Caffeine+%C2%B7+1%25+Code+%C2%B7+100%25+Handcrafted" alt="Typing SVG" />
+</p>
+<p align="center" style="max-width:720px">
+  I craft small-batch wooden goods and build simple web tools.<br>
+  <strong>Open for commissions & collaborations</strong> — reach out via the links above.
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.zohan.tech/api?username=crafts69guy&show_icons=true&theme=solarized-dark&hide_border=true" alt="GitHub Stats" width="100%" />
