@@ -25,5 +25,5 @@
 <p align="center" style="max-width:720px; margin-top:14px">99% Caffeine, 1% Code, 100% Handcrafted. I craft small-batch wooden goods and build simple web tools. Open for commissions & collaborations — reach out via the links above.</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=crafts69guy&show_icons=true&theme=solarized-dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.zohan.tech/api?username=crafts69guy&show_icons=true&theme=solarized-dark&hide_border=true" alt="GitHub Stats" />
 </p>
